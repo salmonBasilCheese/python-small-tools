@@ -8,6 +8,10 @@ A collection of small Python utilities created for learning and automation.
 
 Adds the prefix `new_` to every file in a selected folder.
 
+### duplicate_finder.py
+
+Finds duplicate files in a folder using SHA-256 hashes.
+
 ### Features
 
 - Works on Windows
