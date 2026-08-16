@@ -12,6 +12,10 @@ Adds the prefix `new_` to every file in a selected folder.
 
 Finds duplicate files in a folder using SHA-256 hashes.
 
+### csv_sorter.py
+
+Sorts CSV rows by the Name column while keeping the header unchanged.
+
 ### Features
 
 - Works on Windows
