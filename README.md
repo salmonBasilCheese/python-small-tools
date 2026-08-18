@@ -14,14 +14,27 @@ Finds duplicate files in a folder using SHA-256 hashes.
 
 ### csv_sorter.py
 
-Sorts CSV rows by the Name column while keeping the header unchanged.
+Sorts CSV rows by the Score column in ascending order.
 
-### Features
+### image_resizer.py
+
+Resizes image files in a selected folder.
+
+### text_file_search.py
+
+Searches for a specified string in `.txt` files in a selected folder.
+
+### file_extension_counter.py
+
+Counts files by extension in a selected folder.
+
+## Features
 
 - Works on Windows
 - Ignores subfolders
-- Prevents filename conflicts
 - Compatible with Python 3.13
+- Uses Python standard libraries where possible
+- Includes small practical utilities for file and data processing
 
 ## Purpose
 
