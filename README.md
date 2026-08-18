@@ -28,6 +28,10 @@ Searches for a specified string in `.txt` files in a selected folder.
 
 Counts files by extension in a selected folder.
 
+### csv_filter.py
+
+Filters CSV rows by a minimum Score and saves the matching rows to a new CSV file.
+
 ## Features
 
 - Works on Windows
