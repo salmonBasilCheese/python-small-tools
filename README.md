@@ -32,6 +32,10 @@ Counts files by extension in a selected folder.
 
 Filters CSV rows by a minimum Score and saves the matching rows to a new CSV file.
 
+### file_size_checker.py
+
+Displays the size of files in a selected folder and sorts them by size.
+
 ## Features
 
 - Works on Windows
