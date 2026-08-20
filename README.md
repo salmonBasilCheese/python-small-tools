@@ -40,6 +40,10 @@ Displays the size of files in a selected folder and sorts them by size.
 
 Finds files larger than a specified size in a selected folder.
 
+### folder_report.py
+
+Generates a report of files and folders, including file counts, total size, largest and smallest files, and file extension counts.
+
 ## Features
 
 - Works on Windows
