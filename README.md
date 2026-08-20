@@ -48,6 +48,10 @@ Generates a report of files and folders, including file counts, total size, larg
 
 Analyzes a CSV file and reports row count, column count, column names, and statistics for numeric columns.
 
+### csv_summary.py
+
+Calculates summary statistics from the Score column of a CSV file and saves the results to a new CSV file.
+
 ## Features
 
 - Works on Windows
