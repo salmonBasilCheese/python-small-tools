@@ -52,6 +52,14 @@ Analyzes a CSV file and reports row count, column count, column names, and stati
 
 Calculates summary statistics from the Score column of a CSV file and saves the results to a new CSV file.
 
+### csv_filter_and_save.py
+
+Filters CSV rows by a minimum Score value and saves the filtered rows to a new CSV file.
+
+### csv_statistics.py
+
+Groups Score values by Department, calculates the average, maximum, and minimum for each department, and saves the results to a new CSV file.
+
 ## Features
 
 - Works on Windows
