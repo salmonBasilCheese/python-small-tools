@@ -36,6 +36,10 @@ Filters CSV rows by a minimum Score and saves the matching rows to a new CSV fil
 
 Displays the size of files in a selected folder and sorts them by size.
 
+### large_file_finder.py
+
+Finds files larger than a specified size in a selected folder.
+
 ## Features
 
 - Works on Windows
