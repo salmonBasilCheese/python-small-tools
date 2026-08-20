@@ -44,6 +44,10 @@ Finds files larger than a specified size in a selected folder.
 
 Generates a report of files and folders, including file counts, total size, largest and smallest files, and file extension counts.
 
+### csv_analyzer.py
+
+Analyzes a CSV file and reports row count, column count, column names, and statistics for numeric columns.
+
 ## Features
 
 - Works on Windows
