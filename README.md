@@ -64,6 +64,10 @@ Groups Score values by Department, calculates the average, maximum, and minimum 
 
 Merges two CSV files with the same columns into a single CSV file.
 
+### csv_column_selector.py
+
+Selects specified columns from a CSV file and saves them to a new CSV file.
+
 ## Features
 
 - Works on Windows
