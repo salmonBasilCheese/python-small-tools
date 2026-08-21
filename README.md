@@ -60,6 +60,10 @@ Filters CSV rows by a minimum Score value and saves the filtered rows to a new C
 
 Groups Score values by Department, calculates the average, maximum, and minimum for each department, and saves the results to a new CSV file.
 
+### csv_merge.py
+
+Merges two CSV files with the same columns into a single CSV file.
+
 ## Features
 
 - Works on Windows
